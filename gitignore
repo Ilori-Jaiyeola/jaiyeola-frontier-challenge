@@ -1,0 +1,27 @@
+# secrets — never commit these (rule book: keep credentials out of the submission)
+.env
+.env.*
+*.key
+*.pem
+**/credentials*.json
+**/secrets*.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+build/
+
+# eval outputs (regenerate, don't commit stale results)
+eval/results/*.json
+!eval/results/.gitkeep
+
+# raw trajectory captures that may include env dumps — review before adding
+trajectories/raw/
+
+# os
+.DS_Store

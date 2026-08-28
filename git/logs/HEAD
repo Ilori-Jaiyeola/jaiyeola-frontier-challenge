@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 d57f24d4fc2d7f15219940d757aa0b5daa96dee5 you <you@example.com> 1787884818 +0000	commit (initial): Scaffold: repo structure, README/changelog/reproduction templates, eval harness, CLAUDE.md agent instructions
+d57f24d4fc2d7f15219940d757aa0b5daa96dee5 ac09091d6a4124916deb859214b0ad497adc2a00 you <you@example.com> 1787888735 +0000	commit: Add Aider config and kickoff prompt as second agent
+ac09091d6a4124916deb859214b0ad497adc2a00 fcebc1a9085ce82c271ac579b81fdfb067596778 you <you@example.com> 1787890859 +0000	commit: Switch to single-agent-via-chat workflow: update CLAUDE.md/README disclosure, add GitHub Actions CI, add quota-continuity handoff prompts, remove Aider setup
+fcebc1a9085ce82c271ac579b81fdfb067596778 c8fac1de04fe8fcd00449f8fc92f0309ec59f1ac you <you@example.com> 1787891552 +0000	commit: Document copy-as-you-go trajectory capture as primary method (no instant per-chat export exists)
