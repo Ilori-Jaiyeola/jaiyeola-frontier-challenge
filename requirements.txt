@@ -1,2 +1,0 @@
-# Add real dependencies here once the problem is known.
-# Keep this file the single source of truth — CI installs from it.
