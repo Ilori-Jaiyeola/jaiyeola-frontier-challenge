@@ -1,6 +1,6 @@
 # Vulnerability Scan Triage Assistant — micro1 Agentic Workflows Hackathon 2026
 
-> Author: Jaiyeola · Individual entry · Aug 28–31, 2026
+> Author: Jaiyeola Ilori · Individual entry · Aug 28–31, 2026
 
 ## 1. Who is this for, and what's their bottleneck?
 
