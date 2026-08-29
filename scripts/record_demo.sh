@@ -49,3 +49,10 @@ echo "=============================================="
 echo " 3. FULL COMPARISON — baseline vs advanced, all 16 cases"
 echo "=============================================="
 python3 eval/harness.py --baseline baseline/ --advanced advanced/ --cases eval/cases/ --out eval/results/latest.json
+pause
+
+echo "=============================================="
+echo " 4. PROOF — now open eval/results/latest.json"
+echo "    (eval -> results -> latest.json, opens in TextEdit)"
+echo "=============================================="
+
